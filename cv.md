@@ -1,10 +1,12 @@
 # HI! This is my CV 
 1. **Name**: Kytina Elena
 2. **Contact info**: _lvutina.en@gmail.com_
-3. **Summary**: I am a good learner and learning at RSSchool takes all of my free time, so totally no time to write summary. I am an excellent person :smiley: just believe me 
+3. **Summary**: I am a good learner and learning at RSSchool takes all of my free time, so totally no time to write summary. 
+>I am an excellent person just believe me 
 4. **Skills**: JS, CSS, HTML 
 5.  **Code examples**: 
-```let newGirls=newBoys.map(item=>item.codePointAt());
+```javascript 
+let newGirls=newBoys.map(item=>item.codePointAt());
 console.log(newGirls);
 function aclean (someArray){ }
 ```
