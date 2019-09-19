@@ -1,2 +1,3 @@
-HI! This is my CV http://github.com - automatic!
-[GitHub](http://github.com)
+# HI! This is my CV 
+1. **Name**: Kytina Elena
+2. **Contact info**: _lvutina.en@gmail.com_
