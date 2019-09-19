@@ -11,7 +11,7 @@ console.log(newGirls);
 function aclean (someArray){ }
 ```
 6. **Experience**: 
-* Read a book [about JS] (https://learn.javascript.ru) 
+* Read a book [about JavaScript](https://learn.javascript.ru) 
 * Do courses of RSSchools
 * Finished school-university of Tomsk university, qualification programmer
 * Listen endless stories of my husband-programmer.
